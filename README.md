@@ -6,6 +6,7 @@ To develop a Django application to store and retrieve data from a Book database 
 
 ## Entity Relationship Diagram
 
+![WhatsApp Image 2024-03-05 at 11 41 09_73543bef](https://github.com/Nithish23013509/ORM/assets/149038138/9cae506a-185f-408b-9fd1-10f2fbb822f9)
 
 ## DESIGN STEPS
 
@@ -42,7 +43,8 @@ admin.site.register(Text_Book,Text_BookAdmin)
 
 ## OUTPUT
 
-![Uploading WhatsApp Image 2024-03-05 at 11.25.08_909142ca.jpg…]()
+
+![WhatsApp Image 2024-03-05 at 11 25 08_909142ca](https://github.com/Nithish23013509/ORM/assets/149038138/8ecf40fc-f57f-4b29-b925-86267c766d7f)
 
 
 ## RESULT
