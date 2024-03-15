@@ -6,7 +6,6 @@ To develop a Django application to store and retrieve data from a Book database 
 
 ## Entity Relationship Diagram
 
-![Alt text](<WhatsApp Image 2024-03-05 at 11.41.09_73543bef.jpg>)
 
 ## DESIGN STEPS
 
@@ -43,7 +42,8 @@ admin.site.register(Text_Book,Text_BookAdmin)
 
 ## OUTPUT
 
-![Alt text](<WhatsApp Image 2024-03-05 at 11.25.08_909142ca.jpg>)
+![Uploading WhatsApp Image 2024-03-05 at 11.25.08_909142ca.jpg…]()
+
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
